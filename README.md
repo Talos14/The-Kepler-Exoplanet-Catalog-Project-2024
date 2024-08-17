@@ -8,7 +8,9 @@ To anyone interested in knowing more about the project , a ppt will be attached 
 
 Files Included:
 Main Code: "project-expcatalog.ipynb"
+
 Dataset: "cumulative.csv"
+
 Ze Presentation: "HACKATHON_PROPOSAL-compressed-merged.pptx"
 
 Dated: 17/08/2024 13:00 IST
